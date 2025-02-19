@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="ru">
 <head>
     <meta charset="UTF-8">
@@ -26,7 +25,6 @@
     </style>
 </head>
 <body>
-    <div class="random-text" id="randomText"></div>
     <div class="author" id="authorText"></div>
 
     <script>
